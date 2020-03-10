@@ -1,0 +1,143 @@
+/* // NAVBAR */
+.nav {
+  padding-top: 2rem;
+  padding-left: 5rem;
+  height: 80px;
+}
+
+.logo {
+  width: 280px;
+}
+/* // HEADER */
+.header {
+  height: 700px;
+  align-items: center;
+  background-color: $jelly-bean;
+}
+
+.header__container {
+  padding-top: 150px;
+  align-items: center;
+  color: $white;
+}
+
+.header__title {
+  font-weight: $extra-light;
+  font-size: $xx-large;
+  text-align: center;
+}
+
+.header__title-emphasis {
+  font-weight: $bold;
+  font-size: $xx-large;
+  text-align: center;
+}
+
+// MAIN
+.main{
+  background-color: $taupe-gray;
+  color: $white;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  width:auto;
+  text-align: center;
+display: block;
+margin: auto;
+}
+
+.main__image{
+text-align: center;
+}
+
+.main__text{
+padding:2% 20% 2% 20%;
+}
+
+.main__text-title{
+  font-weight: $bold;
+  font-size: $x-large;
+  text-align: center;
+}
+
+.main__text-paragraph{
+font-weight: $regular;
+font-size: $medium;
+text-align: left;
+}
+
+// DESDE LIMACHE CON AMOR
+.article{
+  color: $granite-gray;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  width:auto;
+  text-align: center;
+display: block;
+margin: auto;
+}
+
+.article__image{
+text-align: center;
+}
+
+.article__text{
+padding:2% 20% 2% 20%;
+}
+
+.article__text-title{
+  font-weight: $bold;
+  font-size: $x-large;
+  text-align: center;
+}
+
+.article__text-paragraph{
+font-weight: $regular;
+font-size: $medium;
+text-align: left;
+}
+
+.article___image-mediumsize{
+  width: 50%;
+}
+
+// BANNER NOSOTROS
+.banner{
+  background-color: $jelly-bean;
+  height: 300px;
+  color: $white;
+  align-items: center;
+  padding-top: 20px;
+}
+
+
+
+// <!-- BANNER CLICK -->
+.click{
+  background-color: $jelly-bean;
+padding:80px;
+  color: $white;
+  align-items: center;
+  padding-top: 20px;
+  text-align: center;
+}
+
+
+// <!-- Footer -->
+.footer{
+  background-color:$granite-gray;
+  padding: 5%;
+}
+.footer__container{
+background-color:$granite-gray;
+width: 50%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.footer__image{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}

@@ -1,0 +1,157 @@
+body {
+  font-family: "Raleway", sans-serif;
+  color: #686963;
+}
+
+button {
+  padding: 40px 20px 40px 20px;
+  background-color: #FAFAFA;
+  border-radius: 80px;
+  border: 2px #686963;
+  color: #686963;
+  text-decoration: none;
+  font-size: 100px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+}
+
+/* // NAVBAR */
+.nav {
+  padding-top: 2rem;
+  padding-left: 5rem;
+  height: 80px;
+}
+
+.logo {
+  width: 280px;
+}
+
+/* // HEADER */
+.header {
+  height: 700px;
+  align-items: center;
+  background-color: #E56353;
+}
+
+.header__container {
+  padding-top: 150px;
+  align-items: center;
+  color: #FFF;
+}
+
+.header__title {
+  font-weight: 200;
+  font-size: 100px;
+  text-align: center;
+}
+
+.header__title-emphasis {
+  font-weight: 700;
+  font-size: 100px;
+  text-align: center;
+}
+
+/* // MAIN */
+.main {
+  background-color: #91918D;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  color: #FFF;
+}
+
+.main__container {
+  align-items: center;
+  width: 300px;
+}
+
+.main__container-image {
+  height: 20%;
+  width: 70%;
+}
+
+.main__image {
+  padding-left: 20%;
+}
+
+.main__container-title {
+  padding-left: 20%;
+}
+
+.main__title {
+  font-weight: 700;
+  font-size: 70px;
+  text-align: center;
+}
+
+.main__paragraph {
+  font-weight: 400;
+  font-size: 18px;
+  text-align: left;
+}
+
+.article {
+  color: #686963;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  width: 70%;
+  text-align: center;
+}
+
+.article__image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.article__text {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.article__text-title {
+  font-weight: 700;
+  font-size: 70px;
+  text-align: center;
+}
+
+.article__text-paragraph {
+  font-weight: 400;
+  font-size: 18px;
+  text-align: left;
+}
+
+.banner {
+  background-color: #E56353;
+  height: 300px;
+  color: #FFF;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.click {
+  background-color: #E56353;
+  height: 500px;
+  color: #FFF;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.footer {
+  background-color: #686963;
+}
+
+.footer__container {
+  background-color: #686963;
+}
+
+.footer__image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/*# sourceMappingURL=main.css.map */

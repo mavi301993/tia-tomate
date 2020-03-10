@@ -1,0 +1,165 @@
+body {
+  font-family: "Raleway", sans-serif;
+  color: #686963;
+}
+
+img {
+  width: 70%;
+}
+
+button {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 80px;
+  padding-right: 80px;
+  background-color: #FAFAFA;
+  border-radius: 80px;
+  border: 1px solid #686963;
+  color: #686963;
+  text-decoration: none;
+  font-size: 50px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  text-align: center;
+  width: 450px;
+}
+
+/* // NAVBAR */
+.nav {
+  padding-top: 2rem;
+  padding-left: 5rem;
+  height: 80px;
+}
+
+.logo {
+  width: 280px;
+}
+
+/* // HEADER */
+.header {
+  height: 700px;
+  align-items: center;
+  background-color: #E56353;
+}
+
+.header__container {
+  padding-top: 150px;
+  align-items: center;
+  color: #FFF;
+}
+
+.header__title {
+  font-weight: 200;
+  font-size: 100px;
+  text-align: center;
+}
+
+.header__title-emphasis {
+  font-weight: 700;
+  font-size: 100px;
+  text-align: center;
+}
+
+.main {
+  background-color: #91918D;
+  color: #FFF;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  width: auto;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+
+.main__image {
+  text-align: center;
+}
+
+.main__text {
+  padding: 2% 20% 2% 20%;
+}
+
+.main__text-title {
+  font-weight: 700;
+  font-size: 70px;
+  text-align: center;
+}
+
+.main__text-paragraph {
+  font-weight: 400;
+  font-size: 18px;
+  text-align: left;
+}
+
+.article {
+  color: #686963;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  width: auto;
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+
+.article__image {
+  text-align: center;
+}
+
+.article__text {
+  padding: 2% 20% 2% 20%;
+}
+
+.article__text-title {
+  font-weight: 700;
+  font-size: 70px;
+  text-align: center;
+}
+
+.article__text-paragraph {
+  font-weight: 400;
+  font-size: 18px;
+  text-align: left;
+}
+
+.article___image-first {
+  width: 50%;
+}
+
+.banner {
+  background-color: #E56353;
+  height: 300px;
+  color: #FFF;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.click {
+  background-color: #E56353;
+  padding: 80px;
+  color: #FFF;
+  align-items: center;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.footer {
+  background-color: #686963;
+  padding: 5%;
+}
+
+.footer__container {
+  background-color: #686963;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer__image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/*# sourceMappingURL=main.css.map */
